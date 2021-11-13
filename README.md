@@ -1,0 +1,1 @@
+This script utilizes BeautifulSoup4 to crawl a specified number of [Hacker News](https://news.ycombinator.com) pages (default is first 3 pages) to print post titles, links, and points sorted from highest points to lowest if the post has the minimum number of specified points (default is 100 points).
